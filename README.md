@@ -1,6 +1,6 @@
 # Calculator4U
 
-**175+ free, ad-free, and privacy-first online calculators**
+**185+ free, ad-free, and privacy-first online calculators**
 
 👉 **Live Website:** [https://calculator4u.app](https://calculator4u.app)
 
@@ -11,7 +11,7 @@ Everything works instantly in your browser — no signup, no ads, and no data tr
 
 ## ✨ Key Features
 
-- **175+ specialized calculators**
+- **185+ specialized calculators**
 - 100% free and open access
 - Completely ad-free
 - Privacy-first (client-side calculations)
